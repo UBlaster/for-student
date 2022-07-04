@@ -1,0 +1,7 @@
+.body {
+	background-color: #3c3b39;
+}
+
+table:hover {
+	box-shadow: 0 0 10px #000000;
+}
